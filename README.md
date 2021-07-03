@@ -1,6 +1,6 @@
 # different_containers
 
-A new Flutter project.
+A new Flutter project showcasing how to use container/s in rows , columns, appbar, body, etc..
 
 ## Getting Started
 
